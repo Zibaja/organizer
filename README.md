@@ -7,3 +7,4 @@ to run the code:
 '''bash
 python main.py
 '''
+# How to setup:
