@@ -1,0 +1,14 @@
+{".png": "images", ".jpeg": "images",
+    ".jpg": "images", ".pdf": "docs",
+    ".csv": "docs",
+    ".xlsx": "docs",
+    ".docx": "docs",
+    ".ipynb" : "programming",
+    ".py": "programming",
+    ".rar": "compressed",
+    ".zip": "compressed",
+    ".acsm": "other",
+    ".mp4": "Audio",
+    ".exe": "Application",
+    ".pptx": "docs"
+}
